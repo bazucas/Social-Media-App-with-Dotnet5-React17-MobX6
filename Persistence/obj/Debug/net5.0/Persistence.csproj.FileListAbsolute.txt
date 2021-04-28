@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\Luis\Desktop\SocialMediaReact\Persistence\obj\Debug\net5.0\Persistence.pdb
